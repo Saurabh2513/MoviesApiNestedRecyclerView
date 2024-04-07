@@ -14,5 +14,15 @@ object Images {
     const val imageUrl7 = POSTER_BASE_URL + "gb6rq2nD0jRrN0dCzigg2MxXNsB.jpg"
     const val imageUrl8 = POSTER_BASE_URL + "pHkKbIRoCe7zIFvqan9LFSaQAde.jpg"
     const val imageUrl9 = POSTER_BASE_URL + "rFljUdOozFEv6HDHIFpFvcYW0ec.jpg"
+    const val imageUrl10 = POSTER_BASE_URL + "bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg"
+    const val imageUrl11 = POSTER_BASE_URL + "pGx6O6IwqADOsgmqWzPysmWnOyr.jpg"
+    const val imageUrl12 = POSTER_BASE_URL + "aGBuiirBIQ7o64FmJxO53eYDuro.jpg"
+    const val imageUrl13 = POSTER_BASE_URL + "pTxw4GFE3ZfzJfvuUsPyD5njAuI.jpg"
+    const val imageUrl14 = POSTER_BASE_URL + "spCAxD99U1A6jsiePFoqdEcY0dG.jpg"
+    const val imageUrl15 = POSTER_BASE_URL + "7ze7YNmUaX81ufctGqt0AgHxRtL.jpg"
+    const val imageUrl16 = POSTER_BASE_URL + "gb6rq2nD0jRrN0dCzigg2MxXNsB.jpg"
+    const val imageUrl17 = POSTER_BASE_URL + "pHkKbIRoCe7zIFvqan9LFSaQAde.jpg"
+    const val imageUrl18 = POSTER_BASE_URL + "rFljUdOozFEv6HDHIFpFvcYW0ec.jpg"
+    const val imageUrl19 = POSTER_BASE_URL + "kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg"
 
 }
