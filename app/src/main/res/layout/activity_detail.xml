@@ -19,7 +19,7 @@
             android:id="@+id/detailImg"
             android:layout_width="180dp"
             android:layout_height="200dp"
-            android:scaleType="centerCrop"
+            android:scaleType="fitCenter"
             android:layout_gravity="center" />
 
     </androidx.cardview.widget.CardView>

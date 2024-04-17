@@ -34,4 +34,6 @@ class MovieAdapter(private val movieModel: List<MovieModel>) :
             onItemClick?.invoke(movieList)
         }
     }
+
+
 }
